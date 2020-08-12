@@ -1,0 +1,171 @@
+03/08/2020 15:31:48 [0] 30-Normal: Index connection granted to: 127.0.0.1
+03/08/2020 15:31:48 [0] 70-Error: POST data did not include #DREENDDATA
+03/08/2020 15:31:48 [0] 30-Normal: Saved incomplete POST data to C:\MicroFocus\IDOLServer-12.4.0\content\status/2.incomplete.
+03/08/2020 15:32:20 [0] 30-Normal: Index connection granted to: 127.0.0.1
+03/08/2020 15:32:20 [0] 70-Error: POST data did not include #DREENDDATA
+03/08/2020 15:32:20 [0] 30-Normal: Saved incomplete POST data to C:\MicroFocus\IDOLServer-12.4.0\content\status/3.incomplete.
+03/08/2020 15:33:16 [0] 30-Normal: Index connection granted to: 127.0.0.1
+03/08/2020 15:33:16 [0] 30-Normal: Index Queue Command: /DRESYNC?ignoreMaxPendingItems=true&_=1596436396036
+03/08/2020 15:33:16 [1] 30-Normal: Index Queue Command: DRESYNC?ignoreMaxPendingItems=true&_=1596436396036
+03/08/2020 15:33:16 [1] 30-Normal: Sync Mapped Files...
+03/08/2020 15:33:16 [1] 30-Normal: Sync Mapped Files...Completed
+03/08/2020 15:33:16 [1] 30-Normal: Index command finished. Took 0.01 s
+03/08/2020 15:36:59 [0] 30-Normal: Index connection granted to: 127.0.0.1
+03/08/2020 15:36:59 [0] 30-Normal: Index Queue Command: /DREADD?C%3A%5CUsers%5CUSER%5CDocuments%5CPython%5Cbooks.xml&DreDbName=books&_=1596436619667
+03/08/2020 15:36:59 [1] 30-Normal: Index Queue Command: DREADD?C%3A%5CUsers%5CUSER%5CDocuments%5CPython%5Cbooks.xml&DreDbName=books&_=1596436619667
+03/08/2020 15:36:59 [1] 30-Normal: Autodetect index file format: Index file "C:\Users\USER\Documents\Python\books.xml" is XML format
+03/08/2020 15:36:59 [1] 30-Normal: Removing duplicates by the following field(s):
+03/08/2020 15:36:59 [1] 30-Normal: */DREREFERENCE,*/REFERENCE
+03/08/2020 15:36:59 [1] 30-Normal: Preserving IDX fields for duplicates: */AU_TAG_*,*/PHRASE_WEIGHT
+03/08/2020 15:36:59 [1] 30-Normal: XML Parser: Checking to see if C:\Users\USER\Documents\Python\books.xml is well formed.
+03/08/2020 15:36:59 [1] 30-Normal: File C:\Users\USER\Documents\Python\books.xml is well formed. Indexing
+03/08/2020 15:37:01 [1] 30-Normal: Flushing 1338 unstemmed cache entries.
+03/08/2020 15:37:01 [1] 30-Normal: Unstemmed flush complete. 1339 inserts, 29 updates.
+03/08/2020 15:37:01 [1] 30-Normal: Done Indexing IndexID=5
+03/08/2020 15:37:01 [1] 30-Normal: Index command finished. Took 1.91 s
+03/08/2020 15:37:11 [0] 30-Normal: Index connection granted to: 127.0.0.1
+03/08/2020 15:37:11 [0] 30-Normal: Index Queue Command: /DREADD?C%3A%5CUsers%5CUSER%5CDocuments%5CPython%5Cnews.xml&DreDbName=news&_=1596436631734
+03/08/2020 15:37:12 [1] 30-Normal: Index Queue Command: DREADD?C%3A%5CUsers%5CUSER%5CDocuments%5CPython%5Cnews.xml&DreDbName=news&_=1596436631734
+03/08/2020 15:37:12 [1] 30-Normal: Autodetect index file format: Index file "C:\Users\USER\Documents\Python\news.xml" is XML format
+03/08/2020 15:37:12 [1] 30-Normal: Removing duplicates by the following field(s):
+03/08/2020 15:37:12 [1] 30-Normal: */DREREFERENCE,*/REFERENCE
+03/08/2020 15:37:12 [1] 30-Normal: Preserving IDX fields for duplicates: */AU_TAG_*,*/PHRASE_WEIGHT
+03/08/2020 15:37:12 [1] 30-Normal: XML Parser: Checking to see if C:\Users\USER\Documents\Python\news.xml is well formed.
+03/08/2020 15:37:12 [1] 30-Normal: ...99% 
+03/08/2020 15:37:12 [1] 30-Normal: File C:\Users\USER\Documents\Python\news.xml is well formed. Indexing
+03/08/2020 15:37:12 [1] 30-Normal: Creating new numeric index for field 30
+03/08/2020 15:37:12 [1] 30-Normal: Flushing 996 numeric cache entries (15936 bytes) for field 30.
+03/08/2020 15:37:12 [1] 30-Normal: Flushing 314 unstemmed cache entries.
+03/08/2020 15:37:12 [1] 30-Normal: Unstemmed flush complete. 214 inserts, 106 updates.
+03/08/2020 15:37:12 [1] 30-Normal: Done Indexing IndexID=6
+03/08/2020 15:37:12 [1] 30-Normal: Index command finished. Took 0.18 s
+03/08/2020 15:38:38 [0] 30-Normal: Index connection granted to: 127.0.0.1
+03/08/2020 15:38:38 [0] 30-Normal: Index Queue Command: /DRESYNC?_=1596436718304
+03/08/2020 15:38:38 [1] 30-Normal: Index Queue Command: DRESYNC?_=1596436718304
+03/08/2020 15:38:38 [1] 30-Normal: 15431 terms in indexer.
+03/08/2020 15:38:40 [1] 30-Normal: Flushing terms in blocks. Total old terms = 0.
+03/08/2020 15:38:40 [1] 30-Normal: Flushing Terms: Set 1/1 - 10% complete.
+03/08/2020 15:38:40 [1] 30-Normal: Flushing Terms: Set 1/1 - 20% complete.
+03/08/2020 15:38:40 [1] 30-Normal: Flushing Terms: Set 1/1 - 30% complete.
+03/08/2020 15:38:40 [1] 30-Normal: Flushing Terms: Set 1/1 - 40% complete.
+03/08/2020 15:38:40 [1] 30-Normal: Flushing Terms: Set 1/1 - 50% complete.
+03/08/2020 15:38:40 [1] 30-Normal: Flushing Terms: Set 1/1 - 60% complete.
+03/08/2020 15:38:40 [1] 30-Normal: Flushing Terms: Set 1/1 - 70% complete.
+03/08/2020 15:38:40 [1] 30-Normal: Flushing Terms: Set 1/1 - 80% complete.
+03/08/2020 15:38:40 [1] 30-Normal: Flushing Terms: Set 1/1 - 90% complete.
+03/08/2020 15:38:40 [1] 30-Normal: Total new terms = 15431. Pre/postcompress size = 0/0 MB
+03/08/2020 15:38:41 [1] 30-Normal: Flushing Terms [Current]: 100% complete.
+03/08/2020 15:38:41 [1] 30-Normal: Sync diskindex.
+03/08/2020 15:38:41 [1] 30-Normal: Sync Mapped Files...
+03/08/2020 15:38:41 [1] 30-Normal: Sync Mapped Files...Completed
+03/08/2020 15:38:41 [1] 30-Normal: Index command finished. Took 2.27 s
+03/08/2020 15:44:15 [0] 30-Normal: Index connection granted to: 127.0.0.1
+03/08/2020 15:44:15 [0] 30-Normal: Index Queue Command: /DRECREATEDBASE?DREDbName=news25&Internal=false&ReadOnly=false&_=1596437055955
+03/08/2020 15:44:16 [1] 30-Normal: Index Queue Command: DRECREATEDBASE?DREDbName=news25&Internal=false&ReadOnly=false&_=1596437055955
+03/08/2020 15:44:16 [1] 30-Normal: Index command finished. Took 0.01 s
+03/08/2020 15:44:46 [0] 30-Normal: Index connection granted to: 127.0.0.1
+03/08/2020 15:44:46 [0] 30-Normal: Index Queue Command: /DREADD?C%3A%5CUsers%5CUSER%5CDocuments%5CPython%5Cnews25.xml&DreDbName=news25&_=1596437086223
+03/08/2020 15:44:46 [1] 30-Normal: Index Queue Command: DREADD?C%3A%5CUsers%5CUSER%5CDocuments%5CPython%5Cnews25.xml&DreDbName=news25&_=1596437086223
+03/08/2020 15:44:46 [1] 30-Normal: Autodetect index file format: Index file "C:\Users\USER\Documents\Python\news25.xml" is XML format
+03/08/2020 15:44:46 [1] 30-Normal: Removing duplicates by the following field(s):
+03/08/2020 15:44:46 [1] 30-Normal: */DREREFERENCE,*/REFERENCE
+03/08/2020 15:44:46 [1] 30-Normal: Preserving IDX fields for duplicates: */AU_TAG_*,*/PHRASE_WEIGHT
+03/08/2020 15:44:46 [1] 30-Normal: XML Parser: Checking to see if C:\Users\USER\Documents\Python\news25.xml is well formed.
+03/08/2020 15:44:46 [1] 30-Normal: File C:\Users\USER\Documents\Python\news25.xml is well formed. Indexing
+03/08/2020 15:44:46 [1] 30-Normal: Flushing 282 numeric cache entries (4512 bytes) for field 30.
+03/08/2020 15:44:46 [1] 30-Normal: Flushing 133 unstemmed cache entries.
+03/08/2020 15:44:46 [1] 30-Normal: Unstemmed flush complete. 46 inserts, 94 updates.
+03/08/2020 15:44:46 [1] 30-Normal: Done Indexing IndexID=9
+03/08/2020 15:44:46 [1] 30-Normal: Index command finished. Took 0.05 s
+03/08/2020 15:45:32 [0] 30-Normal: Index connection granted to: 127.0.0.1
+03/08/2020 15:45:32 [0] 30-Normal: Index Queue Command: /DRESYNC?ignoreMaxPendingItems=true&_=1596437132791
+03/08/2020 15:45:33 [1] 30-Normal: Index Queue Command: DRESYNC?ignoreMaxPendingItems=true&_=1596437132791
+03/08/2020 15:45:33 [1] 30-Normal: 1009 terms in indexer.
+03/08/2020 15:45:34 [1] 30-Normal: Flushing terms in blocks. Total old terms = 15431.
+03/08/2020 15:45:35 [1] 30-Normal: Total new terms = 16167. Pre/postcompress size = 0/0 MB
+03/08/2020 15:45:35 [1] 30-Normal: Flushing Terms [Current]: 100% complete.
+03/08/2020 15:45:35 [1] 30-Normal: Sync diskindex.
+03/08/2020 15:45:35 [1] 30-Normal: Sync Mapped Files...
+03/08/2020 15:45:35 [1] 30-Normal: Sync Mapped Files...Completed
+03/08/2020 15:45:35 [1] 30-Normal: Index command finished. Took 2.01 s
+03/08/2020 16:01:26 [0] 30-Normal: Index connection granted to: 127.0.0.1
+03/08/2020 16:01:26 [0] 30-Normal: Index Queue Command: /DREADD?C%3A%5CUsers%5CUSER%5CDownloads%5Cleisure.xml&DreDbName=news25&_=1596438086047
+03/08/2020 16:01:27 [1] 30-Normal: Index Queue Command: DREADD?C%3A%5CUsers%5CUSER%5CDownloads%5Cleisure.xml&DreDbName=news25&_=1596438086047
+03/08/2020 16:01:27 [1] 30-Normal: Autodetect index file format: Index file "C:\Users\USER\Downloads\leisure.xml" is XML format
+03/08/2020 16:01:27 [1] 30-Normal: Removing duplicates by the following field(s):
+03/08/2020 16:01:27 [1] 30-Normal: */DREREFERENCE,*/REFERENCE
+03/08/2020 16:01:27 [1] 30-Normal: Preserving IDX fields for duplicates: */AU_TAG_*,*/PHRASE_WEIGHT
+03/08/2020 16:01:27 [1] 30-Normal: XML Parser: Checking to see if C:\Users\USER\Downloads\leisure.xml is well formed.
+03/08/2020 16:01:27 [1] 30-Normal: File C:\Users\USER\Downloads\leisure.xml is well formed. Indexing
+03/08/2020 16:01:27 [1] 30-Normal: Failed to find any document start tags. Please check the DocumentDelimiterCSVs setting in your cfg file.
+03/08/2020 16:01:27 [1] 30-Normal: Done Indexing IndexID=11
+03/08/2020 16:01:27 [1] 30-Normal: Index command finished. Took 0.02 s
+03/08/2020 16:01:33 [0] 30-Normal: Index connection granted to: 127.0.0.1
+03/08/2020 16:01:33 [0] 30-Normal: Index Queue Command: /DREADD?C%3A%5CUsers%5CUSER%5CDownloads%5Crss.xml&DreDbName=news25&_=1596438093969
+03/08/2020 16:01:34 [1] 30-Normal: Index Queue Command: DREADD?C%3A%5CUsers%5CUSER%5CDownloads%5Crss.xml&DreDbName=news25&_=1596438093969
+03/08/2020 16:01:34 [1] 30-Normal: Autodetect index file format: Index file "C:\Users\USER\Downloads\rss.xml" is XML format
+03/08/2020 16:01:34 [1] 30-Normal: Removing duplicates by the following field(s):
+03/08/2020 16:01:34 [1] 30-Normal: */DREREFERENCE,*/REFERENCE
+03/08/2020 16:01:34 [1] 30-Normal: Preserving IDX fields for duplicates: */AU_TAG_*,*/PHRASE_WEIGHT
+03/08/2020 16:01:34 [1] 30-Normal: XML Parser: Checking to see if C:\Users\USER\Downloads\rss.xml is well formed.
+03/08/2020 16:01:34 [1] 30-Normal: File C:\Users\USER\Downloads\rss.xml is well formed. Indexing
+03/08/2020 16:01:34 [1] 30-Normal: Failed to find any document start tags. Please check the DocumentDelimiterCSVs setting in your cfg file.
+03/08/2020 16:01:34 [1] 30-Normal: Done Indexing IndexID=12
+03/08/2020 16:01:34 [1] 30-Normal: Index command finished. Took 0.01 s
+03/08/2020 16:03:27 [1] 30-Normal: Delayed sync mode: Starting commit
+03/08/2020 16:03:27 [1] 30-Normal: Delayed sync mode: Finished commit. Took 0.01 s
+03/08/2020 16:06:42 [0] 30-Normal: Index connection granted to: 127.0.0.1
+03/08/2020 16:06:42 [0] 30-Normal: Index Queue Command: /DRECREATEDBASE?DREDbName=rss&Internal=false&ReadOnly=false&_=1596438402739
+03/08/2020 16:06:43 [1] 30-Normal: Index Queue Command: DRECREATEDBASE?DREDbName=rss&Internal=false&ReadOnly=false&_=1596438402739
+03/08/2020 16:06:43 [1] 30-Normal: Index command finished. Took 0.01 s
+03/08/2020 16:06:54 [0] 30-Normal: Index connection granted to: 127.0.0.1
+03/08/2020 16:06:54 [0] 30-Normal: Index Queue Command: /DRECREATEDBASE?DREDbName=les&Internal=false&ReadOnly=false&_=1596438414388
+03/08/2020 16:06:55 [1] 30-Normal: Index Queue Command: DRECREATEDBASE?DREDbName=les&Internal=false&ReadOnly=false&_=1596438414388
+03/08/2020 16:06:55 [1] 30-Normal: Index command finished. Took 0.01 s
+03/08/2020 16:07:42 [0] 30-Normal: Index connection granted to: 127.0.0.1
+03/08/2020 16:07:42 [0] 30-Normal: Index Queue Command: /DREADD?C%3A%5CUsers%5CUSER%5CDownloads%5Crss.xml&DreDbName=rss&_=1596438462913
+03/08/2020 16:07:43 [1] 30-Normal: Index Queue Command: DREADD?C%3A%5CUsers%5CUSER%5CDownloads%5Crss.xml&DreDbName=rss&_=1596438462913
+03/08/2020 16:07:43 [1] 30-Normal: Autodetect index file format: Index file "C:\Users\USER\Downloads\rss.xml" is XML format
+03/08/2020 16:07:43 [1] 30-Normal: Removing duplicates by the following field(s):
+03/08/2020 16:07:43 [1] 30-Normal: */DREREFERENCE,*/REFERENCE
+03/08/2020 16:07:43 [1] 30-Normal: Preserving IDX fields for duplicates: */AU_TAG_*,*/PHRASE_WEIGHT
+03/08/2020 16:07:43 [1] 30-Normal: XML Parser: Checking to see if C:\Users\USER\Downloads\rss.xml is well formed.
+03/08/2020 16:07:43 [1] 30-Normal: File C:\Users\USER\Downloads\rss.xml is well formed. Indexing
+03/08/2020 16:07:43 [1] 30-Normal: Failed to find any document start tags. Please check the DocumentDelimiterCSVs setting in your cfg file.
+03/08/2020 16:07:43 [1] 30-Normal: Done Indexing IndexID=15
+03/08/2020 16:07:43 [1] 30-Normal: Index command finished. Took 0.01 s
+03/08/2020 16:08:00 [0] 30-Normal: Index connection granted to: 127.0.0.1
+03/08/2020 16:08:00 [0] 30-Normal: Index Queue Command: /DREADD?C%3A%5CUsers%5CUSER%5CDownloads%5Cleisure.xml&DreDbName=les&_=1596438480790
+03/08/2020 16:08:01 [1] 30-Normal: Index Queue Command: DREADD?C%3A%5CUsers%5CUSER%5CDownloads%5Cleisure.xml&DreDbName=les&_=1596438480790
+03/08/2020 16:08:01 [1] 30-Normal: Autodetect index file format: Index file "C:\Users\USER\Downloads\leisure.xml" is XML format
+03/08/2020 16:08:01 [1] 30-Normal: Removing duplicates by the following field(s):
+03/08/2020 16:08:01 [1] 30-Normal: */DREREFERENCE,*/REFERENCE
+03/08/2020 16:08:01 [1] 30-Normal: Preserving IDX fields for duplicates: */AU_TAG_*,*/PHRASE_WEIGHT
+03/08/2020 16:08:01 [1] 30-Normal: XML Parser: Checking to see if C:\Users\USER\Downloads\leisure.xml is well formed.
+03/08/2020 16:08:01 [1] 30-Normal: File C:\Users\USER\Downloads\leisure.xml is well formed. Indexing
+03/08/2020 16:08:01 [1] 30-Normal: Failed to find any document start tags. Please check the DocumentDelimiterCSVs setting in your cfg file.
+03/08/2020 16:08:01 [1] 30-Normal: Done Indexing IndexID=16
+03/08/2020 16:08:01 [1] 30-Normal: Index command finished. Took 0.01 s
+03/08/2020 16:09:43 [1] 30-Normal: Delayed sync mode: Starting commit
+03/08/2020 16:09:43 [1] 30-Normal: Delayed sync mode: Finished commit. Took 0.01 s
+03/08/2020 16:13:48 [0] 30-Normal: Index connection granted to: 127.0.0.1
+03/08/2020 16:13:48 [0] 30-Normal: Index Queue Command: /DREADD?C%3A%5CUsers%5CUSER%5CDownloads%5Cleisure.xml&DreDbName=les&_=1596438828351
+03/08/2020 16:13:48 [1] 30-Normal: Index Queue Command: DREADD?C%3A%5CUsers%5CUSER%5CDownloads%5Cleisure.xml&DreDbName=les&_=1596438828351
+03/08/2020 16:13:48 [1] 30-Normal: Autodetect index file format: Index file "C:\Users\USER\Downloads\leisure.xml" is XML format
+03/08/2020 16:13:48 [1] 30-Normal: Removing duplicates by the following field(s):
+03/08/2020 16:13:48 [1] 30-Normal: */DREREFERENCE,*/REFERENCE
+03/08/2020 16:13:48 [1] 30-Normal: Preserving IDX fields for duplicates: */AU_TAG_*,*/PHRASE_WEIGHT
+03/08/2020 16:13:48 [1] 30-Normal: XML Parser: Checking to see if C:\Users\USER\Downloads\leisure.xml is well formed.
+03/08/2020 16:13:48 [1] 30-Normal: File C:\Users\USER\Downloads\leisure.xml is well formed. Indexing
+03/08/2020 16:13:48 [1] 30-Normal: Failed to find any document start tags. Please check the DocumentDelimiterCSVs setting in your cfg file.
+03/08/2020 16:13:48 [1] 30-Normal: Done Indexing IndexID=17
+03/08/2020 16:13:48 [1] 30-Normal: Index command finished. Took 0.01 s
+03/08/2020 16:15:48 [1] 30-Normal: Delayed sync mode: Starting commit
+03/08/2020 16:15:48 [1] 30-Normal: Delayed sync mode: Finished commit. Took 0.01 s
+04/08/2020 10:54:15 [0] 30-Normal: Index connection granted to: 127.0.0.1
+04/08/2020 10:54:15 [0] 30-Normal: Index Queue Command: /DREADD?C%3A%5CUsers%5CUSER%5CDownloads%5Cles.xml&DreDbName=les&_=1596506055136
+04/08/2020 10:54:15 [1] 30-Normal: Index Queue Command: DREADD?C%3A%5CUsers%5CUSER%5CDownloads%5Cles.xml&DreDbName=les&_=1596506055136
+04/08/2020 10:54:15 [1] 70-Error: Indexing Error: Cannot open index file "C:\Users\USER\Downloads\les.xml"
+04/08/2020 10:54:15 [1] 30-Normal: Index command finished. Took 0.01 s
+04/08/2020 10:56:15 [1] 30-Normal: Delayed sync mode: Starting commit
+04/08/2020 10:56:15 [1] 30-Normal: Delayed sync mode: Finished commit. Took 0.02 s
