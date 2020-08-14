@@ -211,4 +211,9 @@
 04/08/2020 10:54:15 [1] 30-Normal: Index command finished. Took 0.01 s
 04/08/2020 10:56:15 [1] 30-Normal: Delayed sync mode: Starting commit
 04/08/2020 10:56:15 [1] 30-Normal: Delayed sync mode: Finished commit. Took 0.02 s
-
+05/08/2020 01:37:01 [1] 30-Normal: Unstemmed flush complete. 9201 inserts, 509 updates.
+05/08/2020 01:37:01 [1] 30-Normal: Done Indexing IndexID=21
+05/08/2020 01:37:01 [1] 30-Normal: Index command finished. Took 11.91 s
+06/08/2020 01:37:01 [1] 30-Normal: Unstemmed flush complete. 9201 inserts, 509 updates.
+06/08/2020 01:37:01 [1] 30-Normal: Done Indexing IndexID=21
+06/08/2020 01:37:01 [1] 30-Normal: Index command finished. Took 11.91 s
